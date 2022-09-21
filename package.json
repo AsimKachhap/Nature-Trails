@@ -1,0 +1,23 @@
+{
+  "name": "nature-trails",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AsimKachhap/Nature-Trails.git"
+  },
+  "keywords": [],
+  "author": "ASIM KACHHAP",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AsimKachhap/Nature-Trails/issues"
+  },
+  "homepage": "https://github.com/AsimKachhap/Nature-Trails#readme",
+  "devDependencies": {
+    "node-sass": "^7.0.3"
+  }
+}
